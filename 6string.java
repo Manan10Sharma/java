@@ -7,6 +7,6 @@ class string
     System.out.println("Concat:"+x.concat("Mode"));
     System.out.println("Length:"+x.length());
     System.out.println("Replace:"+x.replace("l","t"));
-    System.out.println(x.tolower case());
+    System.out.println(x.toLowerCase());
   }
 }
